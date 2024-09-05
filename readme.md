@@ -9,6 +9,9 @@ This repository contains various techniques and approaches for performing time s
 - Modeling: Going through the different models for Time Series like ARIMA
 - Visualizations: Clear, interactive visualizations using mainly Plotly Express to visualize trends, forecasts, and model results.
 
+  ![image](https://github.com/user-attachments/assets/f83913f6-5e5f-499e-8759-6eefd308a3c8)
+
+
 ### Installation
 Clone the repository:
 
