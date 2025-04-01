@@ -15,6 +15,6 @@ This repository contains various techniques and approaches for performing time s
 ### Installation
 Clone the repository:
 
-'''bash
+```bash
 git clone https://github.com/Aneifer/time_series_analysis.git
-'''
+```
